@@ -1,3 +1,2 @@
-# Css-3
-Yeni google sayfası
+Google Page
 Projeyi front-end web development kursumun sonunda geliştirdim.
